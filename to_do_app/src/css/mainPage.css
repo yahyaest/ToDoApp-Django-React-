@@ -1,0 +1,28 @@
+td {
+  padding: 10px;
+}
+
+input {
+  width: 60% !important;
+  margin: auto !important;
+  margin-bottom: 20px !important;
+}
+
+table {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+form > button {
+  margin: 0 20px;
+}
+
+.task__search, h3 {
+  margin-top: 50px ;
+}
+
+li {
+  padding: 10px;
+  list-style: none;
+}
